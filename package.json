@@ -1,9 +1,8 @@
 {
-  "name": "types-bn",
+  "name": "@machinomy/types-bn",
   "version": "0.0.1",
   "description": "TypeScript declaration for bn.js",
-  "main": "index.d.js",
-  "types": "index.d.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/machinomy/types-bn.git"
@@ -15,10 +14,7 @@
   },
   "homepage": "https://github.com/machinomy/types-bn#readme",
   "dependencies": {
-    "bn.js": "4.11.7"
-  },
-  "devDependencies": {
-    "buffer": "^5.0.6",
-    "types-buffer": "^0.0.2"
+    "bn.js": "4.11.7",
+    "safe-buffer": "^5.1.2"
   }
 }

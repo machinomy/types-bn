@@ -1,5 +1,5 @@
 declare module 'bn.js' {
-  import { Buffer } from 'buffer'
+  import { Buffer } from 'safe-buffer'
 
   type Endianness = 'le'|'be'
 
