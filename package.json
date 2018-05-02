@@ -1,6 +1,6 @@
 {
   "name": "@machinomy/types-bn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript declaration for bn.js",
   "types": "index.d.ts",
   "repository": {
